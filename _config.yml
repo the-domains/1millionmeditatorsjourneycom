@@ -1,0 +1,90 @@
+typography_spectrum: 0.995022224599016
+color:
+  brandStrength: 0.4973803415392885
+  lightness: 0.8911375779770131
+  saturation: 0.5750132186290355
+  rhythmicContrast: 0.1875105769850203
+  brandColors:
+    - '#B3B6B8'
+    - '#75EAE6'
+    - '#00FFFF'
+    - '#FFFFFF'
+    - '#808080'
+layout_spectrum: 0.048149551691044824
+analytics:
+  google: UA-111141214-5
+author:
+  name: 1Million Meditators
+  email: themovement@1millionmeditators.com
+  url: 'http://1millionmeditators.com/'
+logo: null
+name: 1Million Meditators
+url: 'http://1millionmeditators.com/'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Join 1Million Meditators
+    url: 'https://themovement.1millionmeditators.com/lp/60320/lp60320'
+    type: external
+  - name: Ambassadors
+    id: 297b1d02-54de-46a7-8524-5cc5f44566f2
+    type: content
+  - name: The Journey
+    id: 627e0cbb-1e4c-475a-8e38-88681b2a1278
+    type: content
+  - name: Credits
+    id: 296fcb0e-3756-4252-9eb0-1b4b11585771
+    type: content
+  - name: The Why?
+    id: ac4cd2ef-aac6-41e8-a812-ae197b03f93a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda77c0c-d86e-4ce4-afeb-3a7ea53b5dea.png
+title: 1Million Meditators
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: >-
+      <article><h1>&#x1F64F;&#x1F30D;&#x2764;&#xFE0F; Help us to grow the
+      1Million Meditators movement!</h1><p>Sign up to help grow the 1Million
+      Meditators.com movement and receive free meditations, a surprise gift
+      reminding you of just how phenomenal you are, and the opportunity to win a
+      $50 donation to your favourite cause or charity that contributes to the
+      wellbeing of our planet! &#x1F30E;</p><img
+      src="https://upviral.s3.amazonaws.com/social/15169889541MMlast-framejpg"></article>
+    src: 'https://upviral.s3.amazonaws.com/social/15169889541MMlast-framejpg'
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://themovement.1millionmeditators.com'
+        name: upviral
+        favicon: 'https://static.upviral.com/favicon.ico'
+        domain: themovement.1millionmeditators.com
+      keywords: []
+      description: "Sign up to help grow the 1Million Meditators.com movement and receive free meditations, a surprise gift reminding you of just how phenomenal you are, and the opportunity to win a $50 donation to your favourite cause or charity that contributes to the wellbeing of our planet! \uD83C\uDF0E"
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'https://themovement.1millionmeditators.com/lp/60320/lp60320'
+      title: "\uD83D\uDE4F\uD83C\uDF0D❤️ Help us to grow the 1Million Meditators movement!"
+      datePublished: null
+    title: "\uD83D\uDE4F\uD83C\uDF0D❤️ Help us to grow the 1Million Meditators movement!"
+    caption: "Sign up to help grow the 1Million Meditators.com movement and receive free meditations, a surprise gift reminding you of just how phenomenal you are, and the opportunity to win a $50 donation to your favourite cause or charity that contributes to the wellbeing of our planet! \uD83C\uDF0E"
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: '''Love Yourself & The Planet'' Global Meditations'
+purpose:
+  - type: external
+    url: 'https://themovement.1millionmeditators.com/lp/60320/lp60320'
+    label: Join the Movement
+  - type: external
+    url: 'http://ambassadors.1millionmeditators.com/sf/6af5a373'
+    label: Become an Ambassador
+github: true
+content_rating:
+  adult: false
